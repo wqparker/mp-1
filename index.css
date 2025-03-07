@@ -63,9 +63,6 @@ main p {
     font-size: calc(2px + 2vw);
 }
 
-#profile-image {
-    max-width: 100%;
-}
 
 #main {
     width: 100%;
